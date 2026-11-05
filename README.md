@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 **Targeting ML Engineer, AI Engineer and Computer Vision roles** (internships and entry-level)
+- 🎯 **Targeting ML Engineer, AI Engineer,Software Development and Computer Vision roles** (internships and entry-level)
 - 🔭 Currently building **multimodal emergency vehicle detection** — a YOLOv8 vision model and a siren-audio CNN joined by context-aware fusion
 - 🌱 Exploring **deep learning, computer vision, audio ML and model robustness**
 - 🛠️ Also building **voice assistants, UIs and full-stack projects**
