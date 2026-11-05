@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=210&section=header&text=siramansingh&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=ML%20%26%20AI%20Engineer%20in%20the%20making%20%E2%80%94%20Vision%20%C2%B7%20Audio%20%C2%B7%20Multimodal&descAlignY=60&descSize=16" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20&height=210&section=header&text=Aman%20Singh&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=ML%20%26%20AI%20Engineer%20in%20the%20making%20%E2%80%94%20Vision%20%C2%B7%20Audio%20%C2%B7%20Multimodal&descAlignY=60&descSize=16" width="100%" alt="header" />
 
 <a href="https://github.com/siramansingh">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Aspiring+Machine+Learning+Engineer;Aspiring+AI+Engineer+%7C+Computer+Vision+%26+Audio+ML;Building+Multimodal+AI+Systems;Open+to+ML+%2F+AI+Internships+and+Roles" alt="Typing SVG" />
@@ -18,7 +18,8 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 **Targeting ML Engineer, AI Engineer,Software Development and Computer Vision roles** (internships and entry-level)
+- 👋 Hi, I'm **Aman Singh** (GitHub: `siramansingh`)
+- 🎯 **Targeting ML Engineer, AI Engineer and Computer Vision roles** (internships and entry-level)
 - 🔭 Currently building **multimodal emergency vehicle detection** — a YOLOv8 vision model and a siren-audio CNN joined by context-aware fusion
 - 🌱 Exploring **deep learning, computer vision, audio ML and model robustness**
 - 🛠️ Also building **voice assistants, UIs and full-stack projects**
@@ -128,9 +129,9 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siramansinghofficial@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siramansingh)
-<!-- EDIT: add your LinkedIn / portfolio links, e.g.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-ID)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://siramansingh.github.io/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-singh-6249211b0)
+<!-- EDIT (optional): add your live portfolio site link, e.g.
+[![Portfolio](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
 -->
 
 <br/>
